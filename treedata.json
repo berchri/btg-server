@@ -1,0 +1,1783 @@
+{
+    "id": 18740745,
+        "level": 0,
+            "name": "Architekturmodell",
+                "code": "SWI-HB",
+                    "children": [
+                        {
+                            "id": 18767346,
+                            "level": 1,
+                            "name": "Beton und Stahlbetonarbeiten",
+                            "code": "SWI-HB-LG 07",
+                            "children": [
+                                {
+                                    "id": 18767347,
+                                    "level": 2,
+                                    "name": "Stahlbeton-Fundament",
+                                    "code": "SWI-HB-LG-07-01",
+                                    "children": [
+                                        {
+                                            "id": 18767866,
+                                            "level": 3,
+                                            "name": "Einzelfundament",
+                                            "code": "SWI-HB-0701",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Fundament"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                0,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18767867,
+                                            "level": 3,
+                                            "name": "Streifenfundament",
+                                            "code": "SWI-HB-0702",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Fundament"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18767868,
+                                            "level": 3,
+                                            "name": "Plattenfundament",
+                                            "code": "SWI-HB-0703",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Fundament"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                0,
+                                                2
+                                            ]
+                                        },
+                                        {
+                                            "id": 18767869,
+                                            "level": 3,
+                                            "name": "Monolitische Bodenplatte",
+                                            "code": "SWI-HB-0704",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Fundament"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                0,
+                                                3
+                                            ]
+                                        },
+                                        {
+                                            "id": 18767870,
+                                            "level": 3,
+                                            "name": "Fundamentverstärkung I Platte",
+                                            "code": "SWI-HB-070501",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Fundament"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                0,
+                                                4
+                                            ]
+                                        },
+                                        {
+                                            "id": 18767872,
+                                            "level": 3,
+                                            "name": "Fundamentverstärkung I Plattenkante",
+                                            "code": "SWI-HB-070502",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Fundament"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                0,
+                                                5
+                                            ]
+                                        },
+                                        {
+                                            "id": 18767873,
+                                            "level": 3,
+                                            "name": "Pfahlrost",
+                                            "code": "SWI-HB-0707",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Fundament"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                0,
+                                                6
+                                            ]
+                                        },
+                                        {
+                                            "id": 18767874,
+                                            "level": 3,
+                                            "name": "Unterbeton",
+                                            "code": "SWI-HB-0707",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Fundament"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                0,
+                                                7
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        0
+                                    ]
+                                },
+                                {
+                                    "id": 18775764,
+                                    "level": 2,
+                                    "name": "Stahlbeton-Wand",
+                                    "code": "SWI-HB-LG-07-08",
+                                    "children": [
+                                        {
+                                            "id": 18775765,
+                                            "level": 3,
+                                            "name": "Ortbetonwand",
+                                            "code": "SWI-HB-070801",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Wand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                1,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18775766,
+                                            "level": 3,
+                                            "name": "Attika I Brüstung",
+                                            "code": "SWI-HB-070802",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Wand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                1,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "id": 18775867,
+                                    "level": 2,
+                                    "name": "Stahlbeton-Decke",
+                                    "code": "SWI-HB-LG-07-09",
+                                    "children": [
+                                        {
+                                            "id": 18775872,
+                                            "level": 3,
+                                            "name": "Balkonplatte",
+                                            "code": "SWI-HB-070901",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                2,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18775870,
+                                            "level": 3,
+                                            "name": "Geschossdecke",
+                                            "code": "SWI-HB-070903",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                2,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18775871,
+                                            "level": 3,
+                                            "name": "Rampe",
+                                            "code": "SWI-HB-070904",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                2,
+                                                2
+                                            ]
+                                        },
+                                        {
+                                            "id": 18775869,
+                                            "level": 3,
+                                            "name": "Decke über Aufzug",
+                                            "code": "SWI-HB-070902",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                2,
+                                                3
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        2
+                                    ]
+                                },
+                                {
+                                    "id": 18776099,
+                                    "level": 2,
+                                    "name": "Stahlbeton-Stütze",
+                                    "code": "SWI-HB-LG-07-10",
+                                    "children": [
+                                        {
+                                            "id": 18776100,
+                                            "level": 3,
+                                            "name": "Ortbetonstütze",
+                                            "code": "SWI-HB-0710",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Stütze"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                3,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18776101,
+                                            "level": 3,
+                                            "name": "Ortbetonstütze-Rund",
+                                            "code": "SWI-HB-0711",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Stütze"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                3,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "id": 18776103,
+                                    "level": 2,
+                                    "name": "Stahlbeton-Balken",
+                                    "code": "SWI-HB-LG-07-12",
+                                    "children": [
+                                        {
+                                            "id": 18776104,
+                                            "level": 3,
+                                            "name": "Unterzug",
+                                            "code": "SWI-HB-071201",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Balken"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                4,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18776105,
+                                            "level": 3,
+                                            "name": "Überzug",
+                                            "code": "SWI-HB-071202",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Balken"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                4,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18776106,
+                                            "level": 3,
+                                            "name": "Deckensprung",
+                                            "code": "SWI-HB-071203",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Balken"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                4,
+                                                2
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "id": 18780054,
+                                    "level": 2,
+                                    "name": "Stahlbeton-Sargdeckel",
+                                    "code": "SWI-HB-LG-07-13",
+                                    "children": [
+                                        {
+                                            "id": 18780055,
+                                            "level": 3,
+                                            "name": "Sargdeckel",
+                                            "code": "SWI-HB-0713",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Sargdeckel"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                5,
+                                                0
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "id": 18780103,
+                                    "level": 2,
+                                    "name": "Stahlbeton-Schacht und Kollektor",
+                                    "code": "SWI-HB-LG-07-14",
+                                    "children": [
+                                        {
+                                            "id": 18780106,
+                                            "level": 3,
+                                            "name": "Schacht bis 1 m3 I Wand",
+                                            "code": "SWI-HB-071403",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780108,
+                                            "level": 3,
+                                            "name": "Schacht über 1-3 m3 I Wand",
+                                            "code": "SWI-HB-071406",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780109,
+                                            "level": 3,
+                                            "name": "Kollektor bis 1 m3 I Bodenplatte",
+                                            "code": "SWI-HB-071407",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                2
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780105,
+                                            "level": 3,
+                                            "name": "Schacht bis 1 m3 I Decke",
+                                            "code": "SWI-HB-071402",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                3
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780104,
+                                            "level": 3,
+                                            "name": "Schacht bis 1 m3 I Bodenplatte",
+                                            "code": "SWI-HB-071401",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                4
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780111,
+                                            "level": 3,
+                                            "name": "Schacht über 1-3 m3 I Decke",
+                                            "code": "SWI-HB-071405",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                5
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780107,
+                                            "level": 3,
+                                            "name": "Schacht über 1-3 m3 I Bodenplatte",
+                                            "code": "SWI-HB-071404",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                6
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780113,
+                                            "level": 3,
+                                            "name": "Kollektor über 1-3 m3 I Bodenplatte",
+                                            "code": "SWI-HB-071410",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                7
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780114,
+                                            "level": 3,
+                                            "name": "Kollektor über 1-3 m3 I Decke",
+                                            "code": "SWI-HB-071411",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                8
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780115,
+                                            "level": 3,
+                                            "name": "Kollektor über 1-3 m3 I Wand",
+                                            "code": "SWI-HB-071412",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                9
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780110,
+                                            "level": 3,
+                                            "name": "Kollektor bis 1 m3 I Decke",
+                                            "code": "SWI-HB-071408",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                10
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780112,
+                                            "level": 3,
+                                            "name": "Kollektor bis 1 m3 I Wand",
+                                            "code": "SWI-HB-071409",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Stahlbeton-Schacht und Kollektor"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                6,
+                                                11
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "id": 18780381,
+                                    "level": 2,
+                                    "name": "Dämmung Decke",
+                                    "code": "SWI-HB-LG-07-15",
+                                    "children": [
+                                        {
+                                            "id": 18780382,
+                                            "level": 3,
+                                            "name": "Dämmung Decke I Nachträglich befestigt",
+                                            "code": "SWI-HB-LG-071501",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Dämmung Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                7,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780383,
+                                            "level": 3,
+                                            "name": "Dämmung Decke I Mitbetoniert",
+                                            "code": "SWI-HB-LG-071502",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Dämmung Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                7,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "id": 18780535,
+                                    "level": 2,
+                                    "name": "Dämmung Wand",
+                                    "code": "SWI-HB-LG-07-16",
+                                    "children": [
+                                        {
+                                            "id": 18780538,
+                                            "level": 3,
+                                            "name": "Dämmung I Trennfuge",
+                                            "code": "SWI-HB-LG-071603",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Dämmung Wand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                8,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780537,
+                                            "level": 3,
+                                            "name": "Dämmung I Feuermauer",
+                                            "code": "SWI-HB-LG-071602",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Dämmung Wand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                8,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780536,
+                                            "level": 3,
+                                            "name": "Dämmung I Kellerwand",
+                                            "code": "SWI-HB-LG-071601",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Beton und Stahlbetonarbeiten",
+                                                "Dämmung Wand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                0,
+                                                8,
+                                                2
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Beton und Stahlbetonarbeiten"
+                                    ],
+                                    "path": [
+                                        0,
+                                        0,
+                                        8
+                                    ]
+                                }
+                            ],
+                            "parentNames": [
+                                "Architekturmodell"
+                            ],
+                            "path": [
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "id": 18780596,
+                            "level": 1,
+                            "name": "Stahlbeton Fertigteil",
+                            "code": "SWI-HB-LG 16",
+                            "children": [
+                                {
+                                    "id": 18780597,
+                                    "level": 2,
+                                    "name": "Fertigteil Decke",
+                                    "code": "SWI-HB-LG-16-01",
+                                    "children": [
+                                        {
+                                            "id": 18780600,
+                                            "level": 3,
+                                            "name": "Stahlbetonelementdecke",
+                                            "code": "SWI-HB-160101",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Stahlbeton Fertigteil",
+                                                "Fertigteil Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                1,
+                                                0,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780601,
+                                            "level": 3,
+                                            "name": "Fertigteilbalkonplatte",
+                                            "code": "SWI-HB-160102",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Stahlbeton Fertigteil",
+                                                "Fertigteil Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                1,
+                                                0,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780602,
+                                            "level": 3,
+                                            "name": "Fertigteilpodestplatte",
+                                            "code": null,
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Stahlbeton Fertigteil",
+                                                "Fertigteil Decke"
+                                            ],
+                                            "path": [
+                                                0,
+                                                1,
+                                                0,
+                                                2
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Stahlbeton Fertigteil"
+                                    ],
+                                    "path": [
+                                        0,
+                                        1,
+                                        0
+                                    ]
+                                },
+                                {
+                                    "id": 18780598,
+                                    "level": 2,
+                                    "name": "Fertigteil Stütze",
+                                    "code": "SWI-HB-LG-16-02",
+                                    "children": [
+                                        {
+                                            "id": 18780604,
+                                            "level": 3,
+                                            "name": "Fertigteil Stütze I Rund",
+                                            "code": "SWI-HB-1603",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Stahlbeton Fertigteil",
+                                                "Fertigteil Stütze"
+                                            ],
+                                            "path": [
+                                                0,
+                                                1,
+                                                1,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780603,
+                                            "level": 3,
+                                            "name": "Fertigteil Stütze I Rechteckig",
+                                            "code": "SWI-HB-1602",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Stahlbeton Fertigteil",
+                                                "Fertigteil Stütze"
+                                            ],
+                                            "path": [
+                                                0,
+                                                1,
+                                                1,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Stahlbeton Fertigteil"
+                                    ],
+                                    "path": [
+                                        0,
+                                        1,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "id": 18780599,
+                                    "level": 2,
+                                    "name": "Fertigteil Wand",
+                                    "code": "SWI-HB-LG-16-04",
+                                    "children": [
+                                        {
+                                            "id": 18780605,
+                                            "level": 3,
+                                            "name": "Doppelwandelement",
+                                            "code": "SWI-HB-160401",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Stahlbeton Fertigteil",
+                                                "Fertigteil Wand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                1,
+                                                2,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780606,
+                                            "level": 3,
+                                            "name": "Loggien-Balkonbrüstung",
+                                            "code": "SWI-HB-160402",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Stahlbeton Fertigteil",
+                                                "Fertigteil Wand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                1,
+                                                2,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Stahlbeton Fertigteil"
+                                    ],
+                                    "path": [
+                                        0,
+                                        1,
+                                        2
+                                    ]
+                                }
+                            ],
+                            "parentNames": [
+                                "Architekturmodell"
+                            ],
+                            "path": [
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "id": 18780783,
+                            "level": 1,
+                            "name": "Trockenbau",
+                            "code": "SWI-HB-LG 39",
+                            "children": [
+                                {
+                                    "id": 18780784,
+                                    "level": 2,
+                                    "name": "Trockenpurt",
+                                    "code": "SWI-HB-LG-39-03",
+                                    "children": [
+                                        {
+                                            "id": 18780785,
+                                            "level": 3,
+                                            "name": "Trockenputz I Ohne Wärmedämmung",
+                                            "code": "SWI-HB-390301",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Trockenpurt"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                0,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780786,
+                                            "level": 3,
+                                            "name": "Trockenputz I Mit Wärmedämmung",
+                                            "code": "SWI-HB-390302",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Trockenpurt"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                0,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Trockenbau"
+                                    ],
+                                    "path": [
+                                        0,
+                                        2,
+                                        0
+                                    ]
+                                },
+                                {
+                                    "id": 18780793,
+                                    "level": 2,
+                                    "name": "Vorsatzschale",
+                                    "code": "SWI-HB-LG-39-02",
+                                    "children": [
+                                        {
+                                            "id": 18780794,
+                                            "level": 3,
+                                            "name": "Vosatzschale I Direkt Befestigt",
+                                            "code": "SWI-HB-390201",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Vorsatzschale"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                1,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780795,
+                                            "level": 3,
+                                            "name": "Vorsatzschale I Freistehend",
+                                            "code": "SWI-HB-390202",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Vorsatzschale"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                1,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Trockenbau"
+                                    ],
+                                    "path": [
+                                        0,
+                                        2,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "id": 18782278,
+                                    "level": 2,
+                                    "name": "Sonstige Trockenbau",
+                                    "code": "SWI-HB-LG-39-04",
+                                    "children": [],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Trockenbau"
+                                    ],
+                                    "path": [
+                                        0,
+                                        2,
+                                        2
+                                    ]
+                                },
+                                {
+                                    "id": 18782279,
+                                    "level": 2,
+                                    "name": "Decke Trockenbau",
+                                    "code": "SWI-HB-LG-39-05",
+                                    "children": [
+                                        {
+                                            "id": 18782281,
+                                            "level": 3,
+                                            "name": "Abgehängte Decke",
+                                            "code": "SWI-HB-390502",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Decke Trockenbau"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                3,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18782280,
+                                            "level": 3,
+                                            "name": "Deckenuntersicht",
+                                            "code": "SWI-HB-390501",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Decke Trockenbau"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                3,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Trockenbau"
+                                    ],
+                                    "path": [
+                                        0,
+                                        2,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "id": 18780787,
+                                    "level": 2,
+                                    "name": "Metallständerwand",
+                                    "code": "SWI-HB-LG-39-01",
+                                    "children": [
+                                        {
+                                            "id": 18780788,
+                                            "level": 3,
+                                            "name": "Einfachständerwand",
+                                            "code": "SWI-HB-390101",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Metallständerwand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                4,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780789,
+                                            "level": 3,
+                                            "name": "Doppelständerwand",
+                                            "code": "SWI-HB-390102",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Metallständerwand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                4,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780790,
+                                            "level": 3,
+                                            "name": "Schachtwand EI30",
+                                            "code": "SWI-HB-390103",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Metallständerwand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                4,
+                                                2
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780791,
+                                            "level": 3,
+                                            "name": "Installationswand",
+                                            "code": "SWI-HB-390105",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Metallständerwand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                4,
+                                                3
+                                            ]
+                                        },
+                                        {
+                                            "id": 18780792,
+                                            "level": 3,
+                                            "name": "Schachtwand EI90",
+                                            "code": "SWI-HB-390104",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Trockenbau",
+                                                "Metallständerwand"
+                                            ],
+                                            "path": [
+                                                0,
+                                                2,
+                                                4,
+                                                4
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Trockenbau"
+                                    ],
+                                    "path": [
+                                        0,
+                                        2,
+                                        4
+                                    ]
+                                }
+                            ],
+                            "parentNames": [
+                                "Architekturmodell"
+                            ],
+                            "path": [
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "id": 18782692,
+                            "level": 1,
+                            "name": "Fassade",
+                            "code": "SWI-HB-LG 44",
+                            "children": [
+                                {
+                                    "id": 18782693,
+                                    "level": 2,
+                                    "name": "WDVS Fassade",
+                                    "code": "SWI-HB-LG-44-01",
+                                    "children": [
+                                        {
+                                            "id": 18782694,
+                                            "level": 3,
+                                            "name": "EPS-F",
+                                            "code": "SWI-HB-440101",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Fassade",
+                                                "WDVS Fassade"
+                                            ],
+                                            "path": [
+                                                0,
+                                                3,
+                                                0,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18782695,
+                                            "level": 3,
+                                            "name": "MW-PT",
+                                            "code": "SWI-HB-440102",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Fassade",
+                                                "WDVS Fassade"
+                                            ],
+                                            "path": [
+                                                0,
+                                                3,
+                                                0,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18782696,
+                                            "level": 3,
+                                            "name": "MW-PT Untersicht",
+                                            "code": "SWI-HB-440103",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Fassade",
+                                                "WDVS Fassade"
+                                            ],
+                                            "path": [
+                                                0,
+                                                3,
+                                                0,
+                                                2
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Fassade"
+                                    ],
+                                    "path": [
+                                        0,
+                                        3,
+                                        0
+                                    ]
+                                }
+                            ],
+                            "parentNames": [
+                                "Architekturmodell"
+                            ],
+                            "path": [
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "id": 18783310,
+                            "level": 1,
+                            "name": "Mauerwerk",
+                            "code": "SWI-HB-LG 08",
+                            "children": [
+                                {
+                                    "id": 18783311,
+                                    "level": 2,
+                                    "name": "Mauerwerk",
+                                    "code": "SWI-HB-LG-08-01",
+                                    "children": [
+                                        {
+                                            "id": 18783312,
+                                            "level": 3,
+                                            "name": "Hochlochziegel",
+                                            "code": "SWI-HB-LG-080101",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                0,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783313,
+                                            "level": 3,
+                                            "name": "HLZ Planziegel",
+                                            "code": "SWI-HB-LG-080102",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                0,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783314,
+                                            "level": 3,
+                                            "name": "Betonsteine",
+                                            "code": "SWI-HB-LG-080103",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                0,
+                                                2
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783315,
+                                            "level": 3,
+                                            "name": "Porenbetonsteine",
+                                            "code": "SWI-HB-LG-080104",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                0,
+                                                3
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783316,
+                                            "level": 3,
+                                            "name": "Schalsteine",
+                                            "code": "SWI-HB-LG-080105",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                0,
+                                                4
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783317,
+                                            "level": 3,
+                                            "name": "Mantelbetonsteine",
+                                            "code": "SWI-HB-LG-080106",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                0,
+                                                5
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Mauerwerk"
+                                    ],
+                                    "path": [
+                                        0,
+                                        4,
+                                        0
+                                    ]
+                                },
+                                {
+                                    "id": 18783318,
+                                    "level": 2,
+                                    "name": "Mauerwerk Nichttragend",
+                                    "code": "SWI-HB-LG-08-02",
+                                    "children": [
+                                        {
+                                            "id": 18783319,
+                                            "level": 3,
+                                            "name": "Keramische",
+                                            "code": "SWI-HB-LG-080201",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk Nichttragend"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                1,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783320,
+                                            "level": 3,
+                                            "name": "Beton",
+                                            "code": "SWI-HB-LG-080202",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk Nichttragend"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                1,
+                                                1
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783321,
+                                            "level": 3,
+                                            "name": "Leichtbeton",
+                                            "code": "SWI-HB-LG-080203",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk Nichttragend"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                1,
+                                                2
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783322,
+                                            "level": 3,
+                                            "name": "Leichtbeton Schallschutz",
+                                            "code": "SWI-HB-LG-080204",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk Nichttragend"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                1,
+                                                3
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783323,
+                                            "level": 3,
+                                            "name": "Porenbeton",
+                                            "code": "SWI-HB-LG-080205",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Mauerwerk",
+                                                "Mauerwerk Nichttragend"
+                                            ],
+                                            "path": [
+                                                0,
+                                                4,
+                                                1,
+                                                4
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Mauerwerk"
+                                    ],
+                                    "path": [
+                                        0,
+                                        4,
+                                        1
+                                    ]
+                                }
+                            ],
+                            "parentNames": [
+                                "Architekturmodell"
+                            ],
+                            "path": [
+                                0,
+                                4
+                            ]
+                        },
+                        {
+                            "id": 18783923,
+                            "level": 1,
+                            "name": "Abdichtung",
+                            "code": "SWI-HB-LG 12",
+                            "children": [
+                                {
+                                    "id": 18783924,
+                                    "level": 2,
+                                    "name": "Perimeterdämmung",
+                                    "code": "SWI-HB-LG-12-01",
+                                    "children": [
+                                        {
+                                            "id": 18783925,
+                                            "level": 3,
+                                            "name": "Abdichtung I Vertikale Wand",
+                                            "code": "SWI-HB-LG-120101",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Abdichtung",
+                                                "Perimeterdämmung"
+                                            ],
+                                            "path": [
+                                                0,
+                                                5,
+                                                0,
+                                                0
+                                            ]
+                                        },
+                                        {
+                                            "id": 18783926,
+                                            "level": 3,
+                                            "name": "Abdichtung I Horizontal I Unter der Bondeplatte",
+                                            "code": "SWI-HB-LG-120102",
+                                            "children": [],
+                                            "parentNames": [
+                                                "Architekturmodell",
+                                                "Abdichtung",
+                                                "Perimeterdämmung"
+                                            ],
+                                            "path": [
+                                                0,
+                                                5,
+                                                0,
+                                                1
+                                            ]
+                                        }
+                                    ],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Abdichtung"
+                                    ],
+                                    "path": [
+                                        0,
+                                        5,
+                                        0
+                                    ]
+                                }
+                            ],
+                            "parentNames": [
+                                "Architekturmodell"
+                            ],
+                            "path": [
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "id": 18784239,
+                            "level": 1,
+                            "name": "Räume",
+                            "code": "SWI-HB-Räume",
+                            "children": [
+                                {
+                                    "id": 18784244,
+                                    "level": 2,
+                                    "name": "Räume",
+                                    "code": "SWI-HB-Räume-01",
+                                    "children": [],
+                                    "parentNames": [
+                                        "Architekturmodell",
+                                        "Räume"
+                                    ],
+                                    "path": [
+                                        0,
+                                        6,
+                                        0
+                                    ]
+                                }
+                            ],
+                            "parentNames": [
+                                "Architekturmodell"
+                            ],
+                            "path": [
+                                0,
+                                6
+                            ]
+                        },
+                        {
+                            "id": 18784261,
+                            "level": 1,
+                            "name": "Sonstige",
+                            "code": "SWI-HB-Sonstige",
+                            "children": [],
+                            "parentNames": [
+                                "Architekturmodell"
+                            ],
+                            "path": [
+                                0,
+                                7
+                            ]
+                        }
+                    ],
+                        "parentNames": [],
+                            "path": [
+                                0
+                            ],
+                                "project_id": 2164,
+                                    "project": "Informationsanforderungskatalog für Hochbauprojekte - Swietelsky AG"
+}

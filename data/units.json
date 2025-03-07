@@ -1,0 +1,127 @@
+[
+    {
+        "unitType": "IfcLengthMeasure",
+        "units": [
+            {
+                "name": "MILLI-METRE",
+                "abbr": "mm",
+                "factor": 1000
+            },
+            {
+                "name": "CENTI-METRE",
+                "abbr": "cm",
+                "factor": 100
+            },
+            {
+                "name": "METRE",
+                "abbr": "m",
+                "factor": 1
+            },
+            {
+                "name": "KILO-METRE",
+                "abbr": "km",
+                "factor": 0.001
+            }
+        ]
+    },
+    {
+        "unitType": "IfcVolumeMeasure",
+        "units": [
+            {
+                "name": "CUBIC_METRE",
+                "abbr": "m³",
+                "factor": 1
+            },
+            {
+                "name": "CUBIC_CENTI-METRE",
+                "abbr": "cm³",
+                "factor": 1000000
+            },
+            {
+                "name": "CUBIC_MILLI-METRE",
+                "abbr": "mm³",
+                "factor": 1000000000
+            },
+            {
+                "name": "LITRE",
+                "abbr": "l",
+                "factor": 1000
+            }
+        ]
+    },
+    {
+        "unitType": "IfcAreaMeasure",
+        "units": [
+            {
+                "name": "SQUARE_METRE",
+                "abbr": "m²",
+                "factor": 1
+            },
+            {
+                "name": "SQUARE_CENTI-METRE",
+                "abbr": "cm²",
+                "factor": 10000
+            },
+            {
+                "name": "SQUARE_MILLI-METRE",
+                "abbr": "mm²",
+                "factor": 1000000
+            },
+            {
+                "name": "SQUARE_KILO-METRE",
+                "abbr": "km²",
+                "factor": 0.000001
+            }
+        ]
+    },
+    {
+        "unitType": "IfcMassDensityMeasure",
+        "units": [
+            {
+                "name": "kg/m3",
+                "abbr": "kg/m³",
+                "factor": 1
+            }
+        ]
+    },
+    {
+        "unitType": "IfcThermalConductivityMeasure",
+        "units": [
+            {
+                "name": "Watt / m Kelvin",
+                "abbr": "W/(mK)",
+                "factor": 1
+            }
+        ]
+    },
+    {
+        "unitType": "IfcForceMeasure",
+        "units": [
+            {
+                "name": "NEWTON",
+                "abbr": "N",
+                "factor": 1
+            },
+            {
+                "name": "kg",
+                "abbr": "kg",
+                "factor": 0.1019368
+            }
+        ]
+    },
+    {
+        "unitType": "IfcPlaneAngleMeasure",
+        "units": [
+            {
+                "name": "GRAD",
+                "abbr": "°",
+                "factor": 1
+            },
+            {
+                "name": "RADIAN",
+                "abbr": "rad",
+                "factor": 57.2958
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "familyCategory": "OST_Ceilings",
+        "familyBasis": "Abgehängte Decke 25",
+        "properties": [
+            {
+                "name": "CompoundStructWidth",
+                "nameUI": "Höhe",
+                "exportPosition": "root"
+            }
+        ]
+    },
+    {
+        "familyCategory": "OST_EdgeSlab",
+        "familyBasis": "Dreieckig",
+        "properties": [
+            {
+                "name": "Höhe",
+                "nameUI": "Höhe",
+                "exportPosition": "root"
+            },
+            {
+                "name": "Winkel",
+                "nameUI": "Winkel",
+                "exportPosition": "root",
+                "ifcType": "IfcPlaneAngleMeasure",
+                "ifcUnitAbbr": "°",
+                "ifcUnitName": "GRAD"
+            }
+        ]
+    },
+    {
+        "familyCategory": "OST_Floors",
+        "familyBasis": "Geschossdecke",
+        "properties": [
+            {
+                "name": "CompoundStructWidth",
+                "nameUI": "Höhe",
+                "exportPosition": "root"
+            }
+        ]
+    },
+    {
+        "familyCategory": "OST_Roofs",
+        "familyBasis": "Basisdach",
+        "properties": [
+            {
+                "name": "CompoundStructWidth",
+                "nameUI": "Höhe",
+                "exportPosition": "root"
+            }
+        ]
+    },
+    {
+        "familyCategory": "OST_StructuralColumns",
+        "familyBasis": "Stütze - rechteckig 250 x 250",
+        "properties": [
+            {
+                "name": "Breite",
+                "nameUI": "Dicke"
+            },
+            {
+                "nameUI": "Höhe",
+                "name": "Höhe"
+            }
+        ]
+    },
+    {
+        "familyCategory": "OST_StructuralColumns",
+        "familyBasis": "Stütze - rund 250",
+        "properties": [
+            {
+                "name": "Durchmesser",
+                "nameUI": "Durchmesser"
+            }
+        ]
+    },
+    {
+        "familyCategory": "OST_StructuralFoundation",
+        "familyBasis": "Fundamentplatte",
+        "properties": [
+            {
+                "name": "Breite",
+                "nameUI": "Breite"
+            },
+            {
+                "name": "Länge",
+                "nameUI": "Länge"
+            },
+            {
+                "name": "h",
+                "nameUI": "Höhe"
+            }
+        ]
+    },
+    {
+        "familyCategory": "OST_StructuralFraming",
+        "familyBasis": "Träger 250 x 500",
+        "properties": [
+            {
+                "name": "Breite",
+                "nameUI": "Dicke"
+            },
+            {
+                "name": "Höhe",
+                "nameUI": "Höhe"
+            }
+        ]
+    },
+    {
+        "familyCategory": "OST_Walls",
+        "familyBasis": "Basiswand",
+        "properties": [
+            {
+                "name": "CompoundStructWidth",
+                "nameUI": "Dicke",
+                "exportPosition": "root"
+            }
+        ]
+    }
+]

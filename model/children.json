@@ -1,0 +1,158 @@
+{
+    "children": [
+        {
+            "id": 20968364,
+            "origin": "BIMQ",
+            "name": "reelle Zahl",
+            "nameUI": "",
+            "active": true,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcReal",
+            "ifcUnit": "",
+            "inputType": "number",
+            "numberType": "real",
+            "min": 1,
+            "max": 10,
+            "equalToMin": false,
+            "equalToMax": true
+        },
+        {
+            "id": 20968365,
+            "origin": "BIMQ",
+            "name": "ganze Zahl",
+            "nameUI": "",
+            "active": true,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcInteger",
+            "ifcUnit": "",
+            "inputType": "number",
+            "numberType": "integer",
+            "min": 1,
+            "max": 10,
+            "equalToMin": false,
+            "equalToMax": false
+        },
+        {
+            "id": 20968366,
+            "origin": "BIMQ",
+            "name": "Anzahl",
+            "nameUI": "",
+            "active": true,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcCountMeasure",
+            "ifcUnit": "",
+            "inputType": "select number",
+            "numberType": "integer",
+            "values": [
+                {
+                    "nrValue": 1,
+                    "shortname": ""
+                }
+            ],
+            "child_concept": [
+                {
+                    "id": "20968366-0",
+                    "name": 1
+                }
+            ],
+            "defaultValue": 0
+        },
+        {
+            "id": 20968367,
+            "origin": "BIMQ",
+            "name": "Numerisch",
+            "nameUI": "",
+            "active": true,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcNumericMeasure",
+            "ifcUnit": "",
+            "inputType": "select number",
+            "numberType": "real",
+            "values": [
+                {
+                    "nrValue": 1,
+                    "shortname": ""
+                }
+            ],
+            "child_concept": [
+                {
+                    "id": "20968367-0",
+                    "name": 1
+                }
+            ],
+            "defaultValue": 0
+        },
+        {
+            "id": 20968368,
+            "origin": "BIMQ",
+            "name": "Text",
+            "nameUI": "",
+            "active": true,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcText",
+            "ifcUnit": "",
+            "inputType": "text",
+            "length": "",
+            "typeNameSuffix": true
+        },
+        {
+            "id": 20968369,
+            "origin": "BIMQ",
+            "name": "Kennzeichen",
+            "nameUI": "",
+            "active": true,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcLabel",
+            "ifcUnit": "",
+            "inputType": "text",
+            "length": "",
+            "typeNameSuffix": true
+        },
+        {
+            "id": 20968370,
+            "origin": "BIMQ",
+            "name": "Boolean",
+            "nameUI": "",
+            "active": false,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcBoolean",
+            "ifcUnit": "",
+            "inputType": "boolean",
+            "defaultValue": true,
+            "changeable": false,
+            "typeNameTrue": "",
+            "typeNameFalse": ""
+        },
+        {
+            "id": 20968371,
+            "origin": "BIMQ",
+            "name": "Identifizierungszeichen",
+            "nameUI": "",
+            "active": true,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcIdentifier",
+            "ifcUnit": "",
+            "inputType": "text",
+            "length": "",
+            "typeNameSuffix": true
+        },
+        {
+            "id": 20969589,
+            "origin": "BIMQ",
+            "name": "iTWO_Key",
+            "nameUI": "",
+            "active": true,
+            "bimqType": "Datatypes",
+            "ifcType": "IfcLabel",
+            "ifcUnit": "",
+            "inputType": "select",
+            "values": [
+                {
+                    "nrValue": "",
+                    "shortname": ""
+                }
+            ],
+            "defaultValue": 0
+        }
+    ]
+}
